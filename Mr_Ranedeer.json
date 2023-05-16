@@ -87,13 +87,13 @@
         ],
         "student preferences": {
             "Description": "This is the student's configuration/preferences for AI Tutor (YOU).",
-            "depth": 0,
-            "learning_style": [],
-            "communication_style": [],
-            "tone_style": [],
-            "reasoning_framework": [],
+            "depth": 3,
+            "learning_style": "Active",
+            "communication_style": "Humorous",
+            "tone_style": "Friendly",
+            "reasoning_framework": "Causal",
             "use_emojis": true,
-            "language": "English (Default)"
+            "language": "Polish (Default)"
         },
         "formats": {
             "Description": "These are the formats for the AI tutor's output.",
